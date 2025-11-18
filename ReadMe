@@ -1,0 +1,8 @@
+# Cut Theory Implementation
+
+This repository contains the Python code for Cut Theory, as described in my arXiv paper.
+Original author: William M. Bartholomew Jr.
+First formulated in 2015; independent development 2015–2025.
+Commit history preserved forever.
+
+See cut_theory.py for the main implementation.
