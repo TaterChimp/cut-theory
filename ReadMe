@@ -6,3 +6,9 @@ First formulated in 2015; independent development 2015–2025.
 Commit history preserved forever.
 
 See cut_theory.py for the main implementation.
+
+Cut Theory is a conceptual framework for understanding division as a process of structured partitioning.
+Rather than focusing only on numerical results, it models division as a “cut” that produces both the size 
+and structure of pieces, offering a clearer and more intuitive way to reason about fractions and division.
+
+1 thing cut 1 time gives you 2 things at 1/2 of their original size: 1 cut 1 = (2, 1/2)
